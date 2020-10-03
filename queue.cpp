@@ -1,6 +1,6 @@
-#include <iostream>
-#include <list> 
+#include <bits/stdc++.h>
 #include <initializer_list>
+
 using namespace std;
 template <typename T>
 class LL{                                           //abstract CLass LL
